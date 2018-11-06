@@ -1,0 +1,10 @@
+site_name: vangietech documents
+docs_dir: docs
+dev_addr: 0.0.0.0:8080
+nav:
+    - 目录: 'index.md'
+    - 云计算:
+        - Iaas: 'cloud/IaaS/README.md'
+        - Pass: 'cloud/PaaS/README.md'
+    - 工具:
+        - MkDocs: 'tools/MkDocs/README.md'
