@@ -1,4 +1,6 @@
 site_name: vangietech documents
+repo_name: GitHub
+edit_uri: https://github.com/vangietech/vangietech/tree/master/docs
 docs_dir: docs
 dev_addr: 0.0.0.0:8080
 nav:
@@ -8,3 +10,4 @@ nav:
         - Pass: 'cloud/PaaS/README.md'
     - 工具:
         - MkDocs: 'tools/MkDocs/README.md'
+
